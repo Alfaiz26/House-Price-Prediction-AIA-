@@ -1,0 +1,5 @@
+AIA Project: House Price Prediction using Machine Learning
+Student: Mohammad Ali Saleem
+Dataset target: SalePrice
+Models: Linear Regression, Random Forest Regressor
+Metrics: MAE, RMSE, R2 Score

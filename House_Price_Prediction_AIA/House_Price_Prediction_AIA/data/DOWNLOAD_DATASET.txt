@@ -1,0 +1,5 @@
+Kaggle dataset: House Prices - Advanced Regression Techniques
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
+Download train.csv and place it in this data/ folder.
+The program will use data/train.csv automatically instead of the included synthetic sample.
